@@ -1,1 +1,122 @@
-<mxfile host="app.diagrams.net" modified="2022-02-25T04:10:44.555Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.105 Safari/537.36" version="16.6.4" etag="klKuGzhv6gjJxZGvIgp1" type="github"><diagram id="KIKLArGZu9UdXkq65TXo">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-02-25T04:26:59.753Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.105 Safari/537.36" etag="XmUR-sonFWDvJiFgZkwh" version="16.6.4" type="github">
+  <diagram id="KIKLArGZu9UdXkq65TXo" name="Page-1">
+    <mxGraphModel dx="1243" dy="671" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="tLwUmllgTaz7_NszGaly-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;verticalAlign=middle;fontStyle=1" edge="1" parent="1" source="tLwUmllgTaz7_NszGaly-1" target="tLwUmllgTaz7_NszGaly-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tLwUmllgTaz7_NszGaly-1" value="Инициализация массива splitA и разделение по знаку точка&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fontStyle=1;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="450" y="320" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="tLwUmllgTaz7_NszGaly-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;verticalAlign=middle;fontStyle=1" edge="1" parent="1" source="tLwUmllgTaz7_NszGaly-2" target="tLwUmllgTaz7_NszGaly-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tLwUmllgTaz7_NszGaly-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=13;verticalAlign=middle;fontStyle=1" edge="1" parent="1" source="tLwUmllgTaz7_NszGaly-2" target="tLwUmllgTaz7_NszGaly-33">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="400" y="515" />
+              <mxPoint x="400" y="760" />
+              <mxPoint x="510" y="760" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tLwUmllgTaz7_NszGaly-2" value="int j = 0; j&amp;lt;2; j++" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontSize=13;fontStyle=1;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="450" y="490" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="tLwUmllgTaz7_NszGaly-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;verticalAlign=middle;fontStyle=1" edge="1" parent="1" source="tLwUmllgTaz7_NszGaly-3" target="tLwUmllgTaz7_NszGaly-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tLwUmllgTaz7_NszGaly-3" value="Int buffer" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fontStyle=1;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="450" y="560" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tLwUmllgTaz7_NszGaly-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;verticalAlign=middle;fontStyle=1" edge="1" parent="1" source="tLwUmllgTaz7_NszGaly-4" target="tLwUmllgTaz7_NszGaly-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tLwUmllgTaz7_NszGaly-4" value="Конвертация строковых значений в числовые" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fontStyle=1;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="450" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tLwUmllgTaz7_NszGaly-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;fontStyle=1;verticalAlign=middle;" edge="1" parent="1" source="tLwUmllgTaz7_NszGaly-6" target="tLwUmllgTaz7_NszGaly-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="590" y="730" />
+              <mxPoint x="590" y="515" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tLwUmllgTaz7_NszGaly-6" value="Запись в&amp;nbsp;Numbers[j]" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fontStyle=1;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="450" y="700" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="tLwUmllgTaz7_NszGaly-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;verticalAlign=middle;fontStyle=1" edge="1" parent="1" source="tLwUmllgTaz7_NszGaly-7" target="tLwUmllgTaz7_NszGaly-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tLwUmllgTaz7_NszGaly-7" value="Sum(number)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;verticalAlign=middle;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="90" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tLwUmllgTaz7_NszGaly-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=13;verticalAlign=middle;fontStyle=1" edge="1" parent="1" source="tLwUmllgTaz7_NszGaly-8" target="tLwUmllgTaz7_NszGaly-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="70" y="550" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tLwUmllgTaz7_NszGaly-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=13;verticalAlign=middle;fontStyle=1" edge="1" parent="1" source="tLwUmllgTaz7_NszGaly-8" target="tLwUmllgTaz7_NszGaly-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="250" y="550" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tLwUmllgTaz7_NszGaly-8" value="number == 0" style="rhombus;whiteSpace=wrap;html=1;fontSize=13;verticalAlign=middle;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="100" y="520" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tLwUmllgTaz7_NszGaly-12" value="return 0" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;verticalAlign=middle;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="190" y="595" width="120" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="tLwUmllgTaz7_NszGaly-15" value="&lt;font style=&quot;font-size: 20px&quot;&gt;True&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="10" y="510" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tLwUmllgTaz7_NszGaly-16" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;return&amp;nbsp;&lt;/span&gt;(number % 10 + Sum(number / 10))" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;verticalAlign=middle;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="10" y="595" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tLwUmllgTaz7_NszGaly-18" value="&lt;font style=&quot;font-size: 20px&quot;&gt;False&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="200" y="510" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tLwUmllgTaz7_NszGaly-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;verticalAlign=middle;fontStyle=1" edge="1" parent="1" source="tLwUmllgTaz7_NszGaly-21" target="tLwUmllgTaz7_NszGaly-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tLwUmllgTaz7_NszGaly-21" value="Начало" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;verticalAlign=middle;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="450" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tLwUmllgTaz7_NszGaly-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=13;verticalAlign=middle;fontStyle=1" edge="1" parent="1" source="tLwUmllgTaz7_NszGaly-22" target="tLwUmllgTaz7_NszGaly-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tLwUmllgTaz7_NszGaly-22" value="Ввод string A" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=13;verticalAlign=middle;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="450" y="250" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tLwUmllgTaz7_NszGaly-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=13;verticalAlign=middle;fontStyle=1" edge="1" parent="1" source="tLwUmllgTaz7_NszGaly-29" target="tLwUmllgTaz7_NszGaly-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tLwUmllgTaz7_NszGaly-29" value="Инициализация массива&amp;nbsp;Numbers" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;verticalAlign=middle;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="450" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tLwUmllgTaz7_NszGaly-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;verticalAlign=middle;fontStyle=1" edge="1" parent="1" source="tLwUmllgTaz7_NszGaly-33" target="tLwUmllgTaz7_NszGaly-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tLwUmllgTaz7_NszGaly-33" value="int B = Sum(Numbers[0])+Sum(Numbers[1])" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;verticalAlign=middle;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="395" y="780" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tLwUmllgTaz7_NszGaly-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;verticalAlign=middle;fontStyle=1" edge="1" parent="1" source="tLwUmllgTaz7_NszGaly-35" target="tLwUmllgTaz7_NszGaly-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tLwUmllgTaz7_NszGaly-35" value="Вывод В" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=13;verticalAlign=middle;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="450" y="860" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tLwUmllgTaz7_NszGaly-38" value="Конец" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;verticalAlign=middle;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="450" y="950" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
