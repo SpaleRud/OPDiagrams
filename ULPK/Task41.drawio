@@ -1,1 +1,101 @@
-<mxfile host="app.diagrams.net" modified="2022-06-17T05:08:57.169Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.125 Safari/537.36" version="18.1.3" etag="ztI9PiKZb2oElvtb6W6m" type="github"><diagram id="-f0CZ22pBras4Y4h2gVI">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-06-17T05:15:09.987Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.125 Safari/537.36" etag="OoPkg00tVbdKkg2gOIg5" version="18.1.3" type="github">
+  <diagram id="-f0CZ22pBras4Y4h2gVI" name="Page-1">
+    <mxGraphModel dx="1243" dy="669" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="LhmBJvxzbHN1kRk19mkL-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LhmBJvxzbHN1kRk19mkL-1" target="LhmBJvxzbHN1kRk19mkL-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LhmBJvxzbHN1kRk19mkL-1" value="Начало" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LhmBJvxzbHN1kRk19mkL-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LhmBJvxzbHN1kRk19mkL-2" target="LhmBJvxzbHN1kRk19mkL-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LhmBJvxzbHN1kRk19mkL-2" value="Ввод размер массива&lt;br&gt;(N)" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LhmBJvxzbHN1kRk19mkL-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LhmBJvxzbHN1kRk19mkL-4" target="LhmBJvxzbHN1kRk19mkL-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LhmBJvxzbHN1kRk19mkL-4" value="Инициализация модуля случайных чисел (rand)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LhmBJvxzbHN1kRk19mkL-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LhmBJvxzbHN1kRk19mkL-6" target="LhmBJvxzbHN1kRk19mkL-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LhmBJvxzbHN1kRk19mkL-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LhmBJvxzbHN1kRk19mkL-6" target="LhmBJvxzbHN1kRk19mkL-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="530" y="345" />
+              <mxPoint x="530" y="470" />
+              <mxPoint x="414" y="470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LhmBJvxzbHN1kRk19mkL-6" value="i&amp;lt;N; i++" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="320" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LhmBJvxzbHN1kRk19mkL-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LhmBJvxzbHN1kRk19mkL-8" target="LhmBJvxzbHN1kRk19mkL-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="334" y="420" />
+              <mxPoint x="334" y="345" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LhmBJvxzbHN1kRk19mkL-8" value="Заполнение массива случайными числами" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LhmBJvxzbHN1kRk19mkL-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LhmBJvxzbHN1kRk19mkL-11" target="LhmBJvxzbHN1kRk19mkL-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LhmBJvxzbHN1kRk19mkL-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LhmBJvxzbHN1kRk19mkL-11" target="LhmBJvxzbHN1kRk19mkL-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="510" y="505" />
+              <mxPoint x="510" y="780" />
+              <mxPoint x="414" y="780" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LhmBJvxzbHN1kRk19mkL-11" value="i=0;i&amp;lt;N;i++" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="480" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LhmBJvxzbHN1kRk19mkL-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LhmBJvxzbHN1kRk19mkL-13" target="LhmBJvxzbHN1kRk19mkL-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LhmBJvxzbHN1kRk19mkL-13" value="Запоминаем число из массива с индексом i в переменную key" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LhmBJvxzbHN1kRk19mkL-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LhmBJvxzbHN1kRk19mkL-15" target="LhmBJvxzbHN1kRk19mkL-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LhmBJvxzbHN1kRk19mkL-15" value="Выбираем случайное число больше выбранного индекса" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LhmBJvxzbHN1kRk19mkL-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LhmBJvxzbHN1kRk19mkL-17" target="LhmBJvxzbHN1kRk19mkL-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="334" y="740" />
+              <mxPoint x="334" y="505" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LhmBJvxzbHN1kRk19mkL-17" value="Заменяем числа друг с другом" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LhmBJvxzbHN1kRk19mkL-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LhmBJvxzbHN1kRk19mkL-20" target="LhmBJvxzbHN1kRk19mkL-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LhmBJvxzbHN1kRk19mkL-20" value="Вывод&amp;nbsp; массива" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LhmBJvxzbHN1kRk19mkL-22" value="Конец" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
