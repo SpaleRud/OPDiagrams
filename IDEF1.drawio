@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-10T03:10:02.886Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="fXerkWjjhpckzIeYT28P" version="21.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-10T03:12:36.449Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="nLAzPz4IfZI4ZM_xhd6T" version="21.1.2" type="github">
   <diagram name="Page-1" id="mOhzyC1Kx7Mu7vAEdjJq">
     <mxGraphModel dx="1399" dy="839" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -37,7 +37,7 @@
         <mxCell id="jYRJlS_vq1EX9FyME1sq-11" value="Купили/Арендовали" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="jYRJlS_vq1EX9FyME1sq-8" vertex="1">
           <mxGeometry y="90" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jYRJlS_vq1EX9FyME1sq-12" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;Каталог&lt;br&gt;&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="jYRJlS_vq1EX9FyME1sq-7" vertex="1">
+        <mxCell id="jYRJlS_vq1EX9FyME1sq-12" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;Товар&lt;br&gt;&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="jYRJlS_vq1EX9FyME1sq-7" vertex="1">
           <mxGeometry x="25" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jYRJlS_vq1EX9FyME1sq-13" value="" style="group" parent="1" vertex="1" connectable="0">
